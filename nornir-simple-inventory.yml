@@ -1,0 +1,41 @@
+---
+controller1:
+    username: 
+    password: 
+    platform: linux
+    hostname: 
+controller2:
+    username: 
+    password: 
+    platform: linux
+    hostname: 
+pc1:
+    username: 
+    password: 
+    platform: linux
+    hostname: 
+pc2:
+    username: 
+    password: 
+    platform: linux
+    hostname: 
+s1:
+    username: 
+    password: 
+    platform: linux
+    hostname: 
+s2:
+    username: 
+    password: 
+    platform: linux
+    hostname: 
+s3:
+    username: 
+    password: 
+    platform: linux
+    hostname: 
+s4:
+    username: 
+    password: 
+    platform: linux
+    hostname: 
